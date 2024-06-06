@@ -1,5 +1,5 @@
 # 🍄 PLASTICOME 🍄
-### Essa é uma ferramenta para identificar genes que possuem a capacidade de degradar plásticos no genoma de um fungo. Ela é composta por uma pelo [plasticome-backend](https://github.com/G2BC/plasticome-backend) que se caracteriza por uma API que faz as análises recebidas por esse front-end, e uma api que lida com as informações a serem registradas/consultadas no banco de dados [plasticome-metadata](https://github.com/G2BC/plasticome-metadata)
+### Essa é uma ferramenta para identificar genes que possuem a capacidade de degradar plásticos no genoma de um fungo. Ela é composta por uma pelo [plasticome-backend](https://github.com/blueevee/plasticome-backend) que se caracteriza por uma API que faz as análises recebidas por esse front-end, e uma api que lida com as informações a serem registradas/consultadas no banco de dados [plasticome-metadata](https://github.com/blueevee/plasticome-metadata)
 
 ## 💙 Notas da desenvolvedora:
 Eu sei, eu sei esse projeto é bem simples, front não é meu forte, e eu acho que esse arquivo script.js não tá prestando pra nada, acho que estou só usando o do html direto mesmo.
